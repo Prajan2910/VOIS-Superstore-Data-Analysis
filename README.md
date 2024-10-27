@@ -15,23 +15,23 @@ This project involves a comprehensive analysis of the Superstore dataset, focusi
 ### Prerequisites
 Make sure you have the following installed:
 
-Python 3.x
-Pandas
-NumPy
-Matplotlib
-Jupyter Notebook (optional, for interactive analysis)
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook (optional, for interactive analysis)
 
 ### Insights Generated
-Sales trends over time
-Performance comparison across different regions
-Customer segmentation analysis
-Recommendations for inventory management
+- Sales trends over time
+- Performance comparison across different regions
+- Customer segmentation analysis
+- Recommendations for inventory management
 
 ### Future Work
-Implement advanced predictive analytics for sales forecasting.
-Explore machine learning models for customer segmentation.
-Enhance visualizations with interactive dashboards using libraries like Plotly or Dash.
-Conduct a comparative analysis with other datasets.
+- Implement advanced predictive analytics for sales forecasting.
+- Explore machine learning models for customer segmentation.
+- Enhance visualizations with interactive dashboards using libraries like Plotly or Dash.
+- Conduct a comparative analysis with other datasets.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
